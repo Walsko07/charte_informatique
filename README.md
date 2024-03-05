@@ -1,1 +1,1 @@
-Ma mission est la mission 4 du sujet de l'entreprise Vos Reves a effectuer lors de mes études.Le but est de créer un diaporama ainsi que la charte infortmatique de l'entreprise. Sur ce github, vous pouvez avoir acces à ces différents fichiers.
+Ma mission est la mission 4 du sujet de l'entreprise Vos Reves a effectuer lors de mes études. Le but est de créer un diaporama ainsi que la charte infortmatique de l'entreprise. Sur ce github, vous pouvez avoir acces à ces différents fichiers.
